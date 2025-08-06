@@ -1,5 +1,5 @@
 # Truth-Seeker
-A Bayesian inference project exploring how beliefs evolve with data
+A Bayesian inference project exploring how beliefs evolve with data.
 A story in three simulations about bias, evidence, and belief.
 
 ---
