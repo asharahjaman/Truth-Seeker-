@@ -33,3 +33,6 @@ A witness identifies someone in a police lineup. But what are the odds the suspe
 - `numpy`, `matplotlib`, `scipy`, `ipywidgets`
 - Jupyter Notebook
 - Bayes’ Theorem
+
+---
+This project uses interactive `ipywidgets`, which don’t render on GitHub. To see it in action, open the notebook locally with Jupyter.
